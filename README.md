@@ -1,9 +1,9 @@
-### Всем привет 👋
+### Hello everyone 👋
 
-Меня зовут Оля и я дата инженер.
+My name is Olga and I'm a Data engineer.
 
-- 👷🏻‍♀️ Хочу разобраться с новыми фреймворками
-- 🐍 Учусь красиво писать на python
+- 👷🏻‍♀️ I want to learn new frameworks
+- 🐍 Learn to write beautifully in python
 - ♑️ please be patient i'm a capricorn
 
 <div>
